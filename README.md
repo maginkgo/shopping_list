@@ -2,7 +2,4 @@
 
 A new Flutter project.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<img src="https://github.com/maginkgo/shopping_list/blob/master/screenshot.jpg" width="300">
